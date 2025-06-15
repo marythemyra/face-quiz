@@ -26,7 +26,7 @@ class PersonQuiz {
     { filename: '劉玉翠.jpg', name: '劉玉翠' },
     { filename: '吳若希.jpg', name: '吳若希' },
     { filename: '周杰倫.jpg', name: '周杰倫' },
-    { filename: '奇異種子.jpg', name: '奇異種子' },
+    { filename: '奇異種子.png', name: '奇異種子' },
     { filename: '姜虎東.jpg', name: '姜虎東' },
     { filename: '孔劉.jpg', name: '孔劉' },
     { filename: '尹光.jpg', name: '尹光' },
